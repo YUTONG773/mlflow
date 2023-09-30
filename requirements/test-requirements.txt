@@ -37,3 +37,4 @@ textstat
 # Required by progress bar tests
 ipywidgets
 tqdm
+pydantic>=2.4.0 # not directly required, pinned by Snyk to avoid a vulnerability
