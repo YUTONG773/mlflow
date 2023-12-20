@@ -66,3 +66,4 @@ langchain
 sentence-transformers
 # Required by mlflow.keras_core
 keras-core
+fonttools>=4.43.0 # not directly required, pinned by Snyk to avoid a vulnerability
